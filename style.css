@@ -85,7 +85,7 @@ cite {
 /* CONTENT */
 /* ���ka contentu je 670px */
 
-.message {margin-top: 20px; padding-left: 160px; height: 120px;}
+.message {margin-top: 20px; padding-left: 160px; min-height: 120px;}
 .message h4 {padding-top: 30px;}
 .message p {}
 #dovolena {background: url(img/message_dovolena.png) no-repeat left center;}
